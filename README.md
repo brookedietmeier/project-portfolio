@@ -1,7 +1,7 @@
-# project-portfolio
+# Project-Portfolio
 2024 Informatics Project Portfolio 
 
-## Projects
+## Informatics Projects
 
 ### [Info 201: Final Project - Data Analysis]
 Project Overview: Exploring the Dynamics of Poverty and Obesity in the United States
@@ -11,12 +11,5 @@ This project investigates the relationship between poverty/wealth and obesity in
 https://brookedietmeier-info201-final-project.shinyapps.io/final-project-gracedao/
 
 
-### [DubsTech Data Visualization Certification]
-(https://github.com/brookedietmeier/DubsTech-Data-Visualization-Certification)
 
-
-### [Project Documentation]
-(https://docs.google.com/document/d/1C5YdKcb7QAND6fBHVt7lno898CoXeblTFfU_Vtffhls/edit)
-
-
-
+### [Incoming: Info 360: Client Side Development - PlatePals]
