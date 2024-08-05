@@ -1,0 +1,6 @@
+[submodule "DubsTech-Data-Visualization-Certification"]
+	path = DubsTech-Data-Visualization-Certification
+	url = https://github.com/brookedietmeier/DubsTech-Data-Visualization-Certification.git
+[submodule "Java-Coding"]
+	path = Java-Coding
+	url = https://github.com/brookedietmeier/brookedietmeier.github.io.git
