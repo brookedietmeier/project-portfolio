@@ -26,7 +26,7 @@ https://github.com/brookedietmeier/project-portfolio/blob/main/Info%20360%20(Gro
 ### Incoming: [Info 340] Client Side Development - PlatePals
 
 
-## Coding Work 
+## Coding Languages 
 
 ### Java
 
