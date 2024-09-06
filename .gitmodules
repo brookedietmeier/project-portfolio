@@ -4,3 +4,6 @@
 [submodule "Java-Coding"]
 	path = Java-Coding
 	url = https://github.com/brookedietmeier/brookedietmeier.github.io.git
+[submodule "projects/project-qiaoyc2"]
+	path = projects/project-qiaoyc2
+	url = https://github.com/info340-su24/project-qiaoyc2.git
