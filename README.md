@@ -23,7 +23,9 @@ https://github.com/brookedietmeier/project-portfolio/blob/main/Info%20351%20-%20
 
 https://github.com/brookedietmeier/project-portfolio/blob/main/Info%20360%20(Group%2019)%20-%20Design%20Specification%20%20(1).pdf
 
-### Incoming: [Info 340] Client Side Development - PlatePals
+### [Info 340] Client Side Development - PlatePals
+
+https://info340-plate-pal.web.app/
 
 
 ## Coding Languages 
