@@ -1,5 +1,5 @@
 # Project-Portfolio
-2024 Informatics Project Portfolio 
+Fall 2021 - Spring 2025 University of Washington Informatics Program Portfolio 
 
 ## Informatics Projects
 
