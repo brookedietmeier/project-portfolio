@@ -39,6 +39,12 @@ Below, you can find a link to our application presentation, which details our en
 
 [View our application presentation](https://www.canva.com/design/DAGWSwOzEMs/mbjm5oYTfPOgcoE_xlbvhw/view?utm_content=DAGWSwOzEMs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hde876cc409)
 
+### [Senior Capstone] - INCOMING 
+This project aims to explore the question: How do different generative AI systems respond to coded and explicit misogynistic rhetoric drawn from the manosphere, and to what extent do these systems reinforce, neutralize, or challenge these narratives depending on the prompting persona? As generative AI systems, especially large language models (LLMs), become more embedded in online platforms, a critical concern emerges: LLM sycophancy - the tendency of AI to uncritically reflect user input. In male-dominated digital spaces like the manosphere, this behavior may result in AI tools unintentionally legitimizing or reinforcing harmful beliefs. Rather than challenging or disrupting extremist rhetoric, these systems may mirror it, subtly validating violent content under the guise of neutral engagement. Existing moderation efforts struggle to keep pace with evolving coded language and context-specific slang, while AI systems - designed to facilitate interaction - may further exacerbate the problem if they lack the nuance to detect or moderate it according to platform policies. By centering our inquiry on how various generative AI systems handle these challenges, we aimed to:
+1.) Analyze the mechanisms through which misogynistic and extremist rhetoric spreads and is sustained within manosphere communities;
+2.) Evaluate how different AI systems interpret both overt and coded forms of misogyny depending on the framing of the prompt and the simulated user identity;
+3.) Identify gaps in current AI safety frameworks and propose interventions to reduce the amplification of toxic content.
+
 ## Coding Languages 
 
 ### Java
