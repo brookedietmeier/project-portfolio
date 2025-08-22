@@ -13,7 +13,8 @@ Through this inquiry, we aim to:
 
 
 Explore the live website for our **Unmasking AI Project**, where we share research, findings, and interactive components from our work on online communities and harmful narratives. 
-[Manosphere Project Website](https://bdietm.wixstudio.com/manosphere)
+🌐 [Explore the Project Website](https://bdietm.wixstudio.com/manosphere)
+🔗 [View the GitHub Repository](https://github.com/mint818/INFO492Project)
 
 ## Informatics Projects
 
