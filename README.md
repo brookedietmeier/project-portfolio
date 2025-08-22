@@ -1,5 +1,11 @@
-# Project-Portfolio
-(Fall 2021 - Spring 2025) University of Washington Informatics Program Portfolio 
+# University of Washington Informatics Portfolio (2021 - 2025) 
+Hi, I’m **Brooke Dietmeier**, and this is my project portfolio showcasing the work I completed as part of the **Informatics Program at the University of Washington (2021–2025)**.  
+
+Each project reflects my experience with data analysis, information management, and technology-driven problem solving, while addressing real-world challenges in areas such as cybersecurity, data science, and online communities.  
+
+Through these projects, I developed skills in **SQL, Python, data visualization, research design, and web development**, while collaborating with peers to deliver impactful solutions. This portfolio highlights both technical implementations and applied research, demonstrating my ability to connect information science with practical applications.  
+
+Explore the sections below to see my projects, repositories, and live applications.
 
 ## Senior Capstone
 ### Unmasking AI: AI Sycophancy & The Manosphere  
