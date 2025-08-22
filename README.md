@@ -67,4 +67,5 @@ Below, you can find a link to our application presentation, which details our en
 
 [DubsTech Data Visualization Cert](https://github.com/brookedietmeier/project-portfolio#:~:text=DubsTech%2DData%2DVisualization%2DCertification)
 
-### **(INCOMING) March 2025** CompTIA Security+ 
+### CompTIA Security+ 
+
